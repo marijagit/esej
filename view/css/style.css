@@ -1,0 +1,1255 @@
+#body{
+	background-color: white;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+#wrapper{
+	max-width: 1200px;
+	margin:auto;
+	background-color:#D8BFD8;
+	text-decoration: none;
+	box-sizing: border-box;
+
+	
+}
+#inf{
+	width: 80%;
+	box-sizing: border-box;
+	margin:auto;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	text-align: center;
+	color: #800080;
+	background-color: white;
+
+}
+#inf h5{
+	font-size: 22px;
+}
+
+#inf p{
+	font-size: 18px;
+	}
+#inf h2{
+	font-size: 30px;
+}
+
+.inputbig{
+	min-height: 100px;
+}
+#header{
+	width: 1200px;
+	height: 115px;
+	background-color:#D8BFD8;
+	color: white;
+	font-size: 25px;
+	box-sizing: border-box;
+}
+#header h1{
+	text-align: center;
+	padding-top: 25px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 27px;
+	margin-right: 450px;
+
+
+}
+#social{
+	padding-left: 600px;
+}
+
+#social img{
+	width: 10px;
+	height: 10px;
+}
+#header img{
+	width: 100px;
+	height: 100%;
+}
+#footer{
+	width: 100%;
+	height: 80px;
+	background-color:#D8BFD8;
+	
+}
+#footer p{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-size: 15px;
+	text-align: center;
+	padding: 30px;
+	color: white;
+}
+#content{
+	width: 100%;
+	box-sizing: border-box;
+	text-decoration: none;
+	background-color:#D8BFD8;
+}
+
+#image img{
+	width: 100%;
+}
+#image h2{
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+
+
+}
+#image p{
+	text-align: center;
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	 padding: 0px 80px 15px 80px;
+
+}
+#image{
+	text-align: center;
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+
+}
+
+.uliniji{
+	display: inline-flex;
+}
+.topnav {
+
+  overflow: hidden;
+  background-color: #D8BFD8;
+}
+
+.topnav a {
+font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+  float: left;
+  display: block;
+  color: 	#800080;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-color:#800080;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #800080;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.fim img{
+	width: 80%;
+	margin: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+  
+}
+
+@media screen and (min-width: 600px) {
+	#adv{
+	width: 100px;
+	text-align: left;
+	margin:10px;
+	}
+	
+	#name a{
+	color:  #800080;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 12px;
+	background-color: white;
+	height: 15px;
+	margin: 60px 0px 20px 10px;
+
+}
+	#yourdoc a{
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 15px;
+	background-color: #800080;
+	margin: 30px 0px 50px 100px;
+	height: 15px;
+	}
+	#yourdoc{
+	width: 50%;
+	background-color: white;
+	font-size: 15px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	margin: 20px 300px 0px 300px;
+}
+	.test{
+	margin-left: 50px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	}
+	#dashboard{
+	width: 75%;
+	background-color: white;
+	margin: 10px;
+}
+	#contentdashboard{
+	width: 100%;
+	
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	
+	
+
+}
+	#contentdash h2{
+	font-size:22px;
+	color: #800080;
+}
+	.table{
+	overflow-x:auto;
+	width: 100%;
+	margin: auto;
+}
+	#contentdash a{
+	color: white;
+	text-decoration: none;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 8px 8px;
+	border-radius: 12px;
+	background-color: #800080;
+	margin-bottom: 20px;
+
+}
+	#profile a{
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 12px;
+	background-color: #800080;
+
+}
+	.dashbox {
+	width: 50%;
+	text-align: center;
+	box-sizing: border-box;
+	padding-bottom: 50px;
+	padding-top: 50px;
+
+
+}
+	.dashbox img {
+	
+	height: 300px;
+	border-style: solid;
+	border-color: #D8BFD8;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+
+
+}
+	#profile{
+	
+	width: 25%;
+	background-color: #D8BFD8;
+	margin-bottom: 30px;
+
+}
+	.profilep img{
+	height: 150px;
+	width: 100px;
+	-webkit-border-radius: 500px;
+	border-radius: 500px; 
+	border-color: #800080;
+	border-style: solid;
+	 margin-left: 87px;
+	 margin-top: 20px;
+}
+	.profilepp img{
+		height: 100px;
+		width: 80px;
+		-webkit-border-radius: 500px;
+		border-radius: 500px; 
+		border-color: #800080;
+		border-style: solid;
+	}
+	.profilepp{
+		    padding-top: 20px;
+	}
+	.profilepp h2{
+		font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+		color: #800080	;
+		text-align: center;
+	}
+	#contentdash{
+	
+	max-width: 100%;
+	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: #800080	;
+	box-sizing: border-box;	
+	
+}
+		#text{
+		padding-left: 30px;
+	}
+	#text h1{
+		color:#800080;
+
+	}
+	#text h3{
+		color:#800080;
+
+	}
+	#text h4{
+		color:#800080;
+
+	}
+	
+	#bio{
+	width: 100%;
+	margin: 20px;
+	color: #800080	;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	display: inline-flex;
+}
+	#baby{
+	text-align: center;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080	;
+	margin: 50px 350px 0px 350px;
+	 background-color: white;
+	  border-radius: 50%;
+	  width: 500px;
+	  height: 500px; 
+	  -webkit-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	}
+
+	#baby h2{
+
+		font-family: Libre Baskerville;
+		font-size: 25px;
+	}
+
+	#baby p{
+		font-family: Libre Baskerville;
+		font-size: 18px;
+
+	}
+	.menupreg1{
+		width: 100%;
+		box-sizing: border-box;
+		display: inline-flex;
+		
+	}
+	.menupreg2{
+		width: 40%;
+
+		text-align: center;
+		font-size: 28px;
+		text-decoration: bold;
+		background-color: white;
+		color: 	#800080;
+		-webkit-border-radius: 20px;
+		border-radius: 20px;
+		border: 10px solid 	#800080;
+		-webkit-box-shadow: 0 0 10px 2px #4B0082	;
+		box-shadow: 0 0 10px 2px #4B0082	;
+		margin: 50px 50px 0px 50px;
+
+		
+	}
+	.login{
+		display: inline-flex;
+		background-color: #D8BFD8;
+	}
+  .teamtext{
+	margin: 40px 150px 80px 150px;
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	text-align: center;
+
+}
+  .teamtext h1 {
+  	font-size: 30px;
+  	color:	#800080;
+  }
+  .teamtext h2 {
+  	font-size: 25px;
+  	color:	#800080;
+  }
+  .teamtext h3 {
+  	font-size: 20px;
+  	color:	#800080;
+  }
+
+  .log{
+  	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	margin: 30px;
+	background-color: #D8BFD8	;
+	
+	}
+
+	.log2 img{
+	 margin-left: 300px;
+    width: 500px;
+    margin-top: 15px;
+}
+.text-block{
+
+  position: absolute;
+  text-align: left;
+  margin-top: 8%;
+  color: 	#800080;
+  padding-left: 20px;
+  text-decoration: none;
+ 
+}
+.text-block h5{
+	font-size: 18px;
+}
+}
+
+
+@media screen and (max-width: 600px) {
+	#adv{
+	width: 50%;
+	text-align: left;
+	margin:10px;
+}
+
+	#name a{
+	color: white;
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 5px 5px;
+	border-radius: 12px;
+	background-color: 	#800080;
+	height: 15px;
+	margin: 20px 0px 20px 10px;
+
+}
+	#yourdoc a{
+	color: white;
+	text-decoration: none;
+	font-size: 9px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 15px;
+	background-color: 	#800080;
+	height: 15px;
+	margin: auto;
+	}
+	#yourdoc{
+	width: 100%;
+	background-color: white;
+	font-size: 11px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: 	#800080;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	margin: 10px 2px 0px 4px;
+}
+	.test{
+	margin-left: auto;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: 	#800080;
+	}
+	.menupreg2 p{
+		font-size: 18px;
+
+
+	}
+	#dashboard{
+	width: 75%;
+	background-color: white;
+	margin: 10px;
+}
+	#contentdashboard{
+	width: 100%;
+	
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	
+	
+
+}
+	#contentdash h2{
+	text-align: left;
+	font-size: 22px;
+	color: 	#800080;
+}
+	.table{
+	overflow-x:auto;
+	width: 80%;
+	margin: 2px 2px 2px 2px;
+}
+	#contentdash a{
+	color: white;
+	text-decoration: none;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 3px 3px;
+	border-radius: 12px;
+	background-color: 	#800080;
+	margin-bottom: 20px;
+	font-size: 10px;
+
+}
+	#profile a{
+	color: white;
+	text-decoration: none;
+	font-size: 11px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 12px;
+	background-color: 	#800080;
+
+}
+	.dashbox {
+	text-align: center;
+	box-sizing: border-box;
+	padding-bottom: 50px;
+	padding-top: 50px;
+
+
+}
+	.dashbox img {
+	width: 100px;
+	height: 100px;
+	border-style: solid;
+	border-color: 	#D8BFD8;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+
+
+}
+	#profile{
+	
+	width: 50%;
+	background-color: #D8BFD8;
+	margin-bottom: 30px;
+
+}
+	.profilep img{
+	margin: 10px;
+	height: 150px;
+	width: 100px;
+	-webkit-border-radius: 500px;
+	border-radius: 500px; 
+	border-color: #800080;
+	border-style: solid;
+}
+	#contentdash{
+	
+	width: 100%;
+	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: #800080;
+	box-sizing: border-box;	
+}
+	#text{
+		padding: 0px 20px 0px 20px; 
+	}
+	#text h1{
+		color:#800080;
+
+	}
+	#text h3{
+		color:#800080;
+
+	}
+	#text h4{
+		color:#800080;
+
+	}
+	#picture img{
+	margin: 10px 10px 0px 10px;
+    width: 80%;
+	}
+	#bio{
+	width: 100%;
+	margin: 20px;
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	
+}
+	#baby{
+	text-align: center;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	margin: auto;
+	background-color: white;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px; 
+	  -webkit-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	box-shadow: 10px 10px 5px 0px rgba(163,163,163,1);
+	}
+
+	#baby h2{
+
+		font-family: Libre Baskerville;
+		font-size: 22px;
+	}
+
+	#baby p{
+		font-family: Libre Baskerville;
+		font-size: 15px;
+
+	}
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .teamtext{
+  	margin: 7px 5px 0px 5px;
+	text-align: center;
+	color: #800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	
+
+}
+
+  .teamtext h1 {
+  	font-size: 20px;
+  	color:#800080;
+  }
+  .teamtext h2 {
+  	font-size: 18px;
+  	color:#800080;
+  }
+  .teamtext h3 {
+  	font-size: 14px;
+  	color:#800080;
+  }
+
+  .log{
+	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: #800080;
+	margin: 30px;
+	}
+
+	.log2 img{
+	
+    width: 80%;
+    margin: 5px 30px 5px 30px;
+}
+.text-block{
+
+  
+  text-align: left;
+  margin-top: 8%;
+  color: #800080;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+.text-block h5{
+	font-size: 18px;
+}
+.text-block h1{
+	font-size: 23px;
+}
+.menupreg1{
+		width: 100%;
+		box-sizing: border-box;
+}
+.menupreg2{
+		width: 40%;
+
+		text-align: center;
+		font-size: 28px;
+		text-decoration: bold;
+		background-color: white;
+		color: #800080;
+		-webkit-border-radius: 20px;
+		border-radius: 20px;
+		border: 10px solid #800080;
+		-webkit-box-shadow: 0 0 10px 2px 	#4B0082;
+		box-shadow: 0 0 10px 2px 	#4B0082;
+		margin: auto;
+
+		
+	}
+}
+
+#contentdasht{
+	width: 100%;
+	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	box-sizing: border-box;
+
+}
+
+#doctors{
+	width: 100%;
+}
+
+#blocks{
+	text-align: center;
+	font-size: 14px;
+	width: 33.33%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	padding-bottom: 5px;
+	margin-bottom: 50px;
+}
+#blocks button{
+	padding: 12px 28px;
+	border-radius: 12px;
+	background-color: 	#800080;
+}
+#blocks a{
+	text-decoration: none;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	font-size: 13px;
+	color: #FFF;
+
+}
+#blocks p{
+	padding: 10px 10px 10px 10px;
+	box-sizing: border-box;
+	text-align: center;
+}
+#doctor{
+	text-align: center;
+	box-sizing: border-box;
+}
+
+#doctor img{
+	width: 150px;
+	
+	border-radius: 50%;
+	
+
+}
+
+#doctor h4{
+	margin-top: 15px;
+	font-size: 18px;
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-weight: bold;
+
+}
+#doctor p{
+	font-size: 16px;
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+#about{
+	width: 80%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	text-decoration: none;
+	text-align: center;
+	color: 	#800080;
+	margin: auto;
+
+}
+
+#about h2{
+	text-decoration: none;
+}
+#txtblock p{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #fff;
+
+}
+#image button{
+	color: white;
+	padding: 12px 28px;
+	border-radius: 12px;
+	background-color: 	#800080;
+
+}
+
+#image a{
+	text-decoration: none;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	font-size: 13px;
+	color: #FFF;
+
+}
+
+#image h4{
+	text-align: center;
+	font-size: 20px;
+	padding: 0px 25px 25px 25px;
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+#info{
+	background-color: #D8BFD8;
+	height: 50%;
+	margin-top: 5%;
+    width: 15%;
+    margin-left: 70%;
+
+
+}
+#info p{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color:#800080;
+	font-size: 18px;
+}
+#info img{
+	width: 18%;
+	height:52%;
+}
+#bio{
+	width: 100%;
+	margin: 20px;
+	color: 	#800080;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+
+
+#card{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	margin: 0px 0px 30px 15px;
+
+}
+
+#card p{
+	margin-right: 50px;
+}
+.fakeimg img{
+	height: 150px;
+	width: 150px;
+	margin-left: 20px;
+}
+
+
+.form-group1 input{
+	padding: 12px 28px;
+	border-radius: 12px;
+	background-color: 	#800080;
+}
+
+#register{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	width: 300px;
+	margin-left: 30px;
+
+}
+
+#container{
+
+font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+color: 	#800080;
+}
+
+
+#container h1{
+margin-bottom: 35px;
+font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+color: 	#800080;
+text-align: center;
+}
+input[type=text], select, textarea {
+  width: 150px;		
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=date], select, textarea {
+ width: 150px;	
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=datetime-local], select, textarea {
+		width: 150px;	
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+input[type=password], select, textarea {
+  width: 150px; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+ input[type=submit] {
+  background-color:#800080;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+input[type=file] {
+  
+  display: none;
+}
+#meniw{
+	width: 100%;
+}
+
+.menihalf{
+	width: 50%;
+}
+#meniw img{
+	width: 30px;
+}
+
+.tab{
+	margin: 15px 100px 15px 50px;
+}
+
+#contact{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: #800080;
+	margin-left: 25px;
+}
+
+
+#profile h3{
+	text-align: center;
+}
+#profile p{
+	text-align: center;
+}
+
+
+
+
+
+#headerdash img{
+	margin-left: 770px;
+	width: 55px;
+	height: 55px;
+
+
+	
+}
+
+#contentdash{
+	
+	width: 100%;
+	
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: 	#800080;
+	box-sizing: border-box;	
+}
+
+#contentdashboard a{
+	color: white;
+	text-decoration: none;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 10px 10px;
+	border-radius: 12px;
+	background-color: 	#800080;
+
+}
+#headerdash{
+	background-color: #D8BFD8;
+	width: 100%;
+
+}
+#headerdash h1{
+	padding-left: 10px;
+	padding-top: 5px;
+	font-size: 20px;
+
+}
+
+
+.dashbox p{
+	padding-bottom: 10px;
+}
+.dashbox a {
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	padding: 12px 20px;
+	border-radius: 12px;
+	background-color: #800080;
+
+
+
+}
+.link{
+	
+	margin-top: 50px;
+}
+
+
+
+#contentdash th {
+  background-color: 	#800080;
+  color: white;
+  
+}
+#contentdash td {
+padding: 15px;
+text-align: center;
+
+
+}
+
+
+
+
+#name{
+	background-color: 	#800080;
+	width: 100%;
+	
+}
+
+#myInput {
+
+  background-position: 10px 12px; 
+  background-repeat: no-repeat;
+  width: 300px; 
+  font-size: 16px;
+  padding: 12px 20px 12px 40px; 
+  border: 1px solid #ddd; 
+  margin-bottom: 12px; 
+
+}
+
+
+
+
+#yourdoc p{
+	margin: 30px 0px 30px 10px;
+	}
+
+
+
+	#informations{
+		background-color:  #D8BFD8;
+		width: 100%;
+		padding-top: 50px;
+	}
+
+	
+
+	#menupreg{
+		width: 100%;
+		font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+		color: #800080;
+		margin: 50px 0px 50px 0px;
+		background-color: #D8BFD8;
+		box-sizing: border-box;
+	}
+
+	
+	
+	.menupreg2 img{
+		width: 50px;
+		height: 50px;
+		margin-top: 10px;
+	}	
+	
+
+
+#results{
+	font-size: 20px;
+	border: 1px solid #800080;
+	width: 245px;
+}
+
+#questions{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+
+}
+#questions h2{
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+.collapsible {
+  background-color: #800080;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+
+.active, .collapsible:hover {
+  background-color: white;
+}
+
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #D8BFD8;
+}
+
+.text{
+	margin-left: 20px;
+
+}
+.contentpreg {
+	margin-left: 20px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	text-align: center;
+}
+#title h2{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	text-align: center;
+
+}
+#finding{
+	width: 100%;
+	height: 100%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	color: #800080;
+	box-sizing: border-box;
+	text-align: center;
+	
+}
+#finding img{
+	padding-bottom: 30px;
+
+}
+#finding h2{
+	font-size: 30px;
+}
+
+
+.without_ampm::-webkit-datetime-edit-ampm-field {
+   display: none;
+ }
+ #form{
+ 	margin-left: 30px;
+ }
+#form input{
+	margin-bottom: 20px;
+}
+
+.profileb{
+	text-align: center;
+}
+#faq{
+	margin: 20px;
+}
+#faq1{
+	background-color: #800080;
+	color: white;
+	padding: 3px;
+	width: 100%
+
+}
+#faq2{
+	
+	color: #800080;
+	width: 100%;
+	font-size: 15px;
+	padding-left: 10px;
+}
+
+.in{
+	box-sizing: border-box;
+}
+.legend{
+	text-align: center;
+}
+
+#infoexami{
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+	text-align: left;
+	background:white;
+	margin: 50px 20px;
+    
+}
+#infoexami h2{
+	padding: 5px;
+	}
+#infoexami h4{
+	font-size: 18.5px;
+	}
+
+.white{
+	padding: 10px;
+	width: 98.5%;
+	background: white;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: #800080;
+}
+.blue{
+	padding: 10px;
+	background:  #800080;
+	width : 98.5%;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	color: white;
+
+
+}
+.tpad{
+	margin: 6px;
+}
+
